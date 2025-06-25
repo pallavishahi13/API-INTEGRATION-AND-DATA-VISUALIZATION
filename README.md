@@ -12,7 +12,7 @@ DURATION - 4  WEEKS
 
 MENTOR - NEELA SANTOSH
 
-###########################################################################################################################################333
+########################################################################
 
 To integrate a public API (e.g., OpenWeatherMap) in Python, fetch real-time weather data, and visualize the results using Matplotlib or Seaborn.
 
