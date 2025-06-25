@@ -12,6 +12,8 @@ DURATION - 4  WEEKS
 
 MENTOR - NEELA SANTOSH
 
+###########################################################################################################################################333
+
 To integrate a public API (e.g., OpenWeatherMap) in Python, fetch real-time weather data, and visualize the results using Matplotlib or Seaborn.
 
 This project demonstrates how APIs can be integrated into Python programs to retrieve real-time data, which can then be parsed, processed, and visualized for meaningful insights using data visualization libraries like Matplotlib and Seaborn.
@@ -23,4 +25,15 @@ Export data to Excel or CSV
 Add multiple cities comparison
 
 Use a bar chart or pie chart for categorical weather data (e.g., sunny vs rainy)
+
+📤 Sample Output:
+A line chart showing temperature changes over the next 5 days at 3-hour intervals.
+
+You can also modify the code to show:
+
+Humidity
+
+Wind speed
+
+Weather conditions (e.g., rain, clear, cloudy)
 
